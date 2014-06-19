@@ -1,0 +1,15 @@
+<html>
+
+<table border=1>
+
+<tr>
+<td>Data1</td>
+<td>Data2</td>
+</tr>
+
+
+</table>
+
+
+
+</html>
